@@ -82,6 +82,7 @@ Products support sui
 
 ### MEV SDKs
 
+- [capybot](https://github.com/MystenLabs/capybot)
 - [cetus-clmm-sui-sdk](https://github.com/CetusProtocol/cetus-clmm-sui-sdk)
 - [sui-scallop-sdk](https://github.com/scallop-io/sui-scallop-sdk)
 - [OmniSwap-Sui-SDK](https://github.com/OmniBTC/OmniSwap-Sui-SDK)
