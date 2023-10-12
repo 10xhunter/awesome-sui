@@ -79,6 +79,7 @@ Products support sui
 - [Navi](https://app.naviprotocol.io/)
 - [Scallop](https://app.scallop.io/)
 - [Turbos](https://app.turbos.finance/)
+- [Typus](https://typus.finance/)
 
 ### MEV SDKs
 
